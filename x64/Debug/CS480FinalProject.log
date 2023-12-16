@@ -1,0 +1,39 @@
+﻿  camera.cpp
+  engine.cpp
+C:\Users\iasha\OneDrive\Desktop\FinalProj\engine.cpp(85,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\engine.cpp(86,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\engine.cpp(87,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\engine.cpp(88,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\engine.cpp(151,23): warning C4244: 'return': conversion from 'double' to 'unsigned int', possible loss of data
+  graphics.cpp
+C:\Users\iasha\OneDrive\Desktop\FinalProj\graphics.cpp(150,12): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\iasha\OneDrive\Desktop\FinalProj\graphics.cpp(150,16): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\iasha\OneDrive\Desktop\FinalProj\graphics.cpp(150,20): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  main.cpp
+  mesh.cpp
+C:\Users\iasha\OneDrive\Desktop\FinalProj\mesh.cpp(101,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\mesh.cpp(137,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\mesh.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+  object.cpp
+C:\Users\iasha\OneDrive\Desktop\FinalProj\object.cpp(73,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  shader.cpp
+  sphere.cpp
+C:\Users\iasha\OneDrive\Desktop\FinalProj\sphere.cpp(58,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\iasha\OneDrive\Desktop\FinalProj\sphere.cpp(98,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Texture.cpp
+  window.cpp
+  Generating Code...
+C:\Users\iasha\OneDrive\Desktop\FinalProj\mesh.cpp(204): warning C4715: 'Mesh::loadModelFromFile': not all control paths return a value
+  CS480FinalProject.vcxproj -> C:\Users\iasha\OneDrive\Desktop\FinalProj\x64\Debug\CS480FinalProject.exe
